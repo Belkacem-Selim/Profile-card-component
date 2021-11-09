@@ -1,6 +1,7 @@
 # Frontend Mentor - Composant de carte de profil
 
-!Aperçu du design pour le défi de codage du composant Carte de profil](./design/desktop-preview.jpg)
+![desktop-preview](https://user-images.githubusercontent.com/93844493/140976147-ac44c034-d3d8-4090-9a76-56c42b565144.jpg)
+
 
 
 ## Le défi
